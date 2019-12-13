@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "wsu-icons";
-	src: url("/wsu-icons.dist.eot?#iefix") format("embedded-opentype"),
-url("/wsu-icons.dist.woff") format("woff"),
-url("/wsu-icons.dist.woff2") format("woff2"),
-url("/wsu-icons.dist.ttf") format("truetype"),
-url("/wsu-icons.dist.svg#wsu-icons") format("svg");
+	src: url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.eot?#iefix") format("embedded-opentype"),
+url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.woff") format("woff"),
+url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.woff2") format("woff2"),
+url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.ttf") format("truetype"),
+url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.svg#wsu-icons") format("svg");
 }
 
 .wsu-icon {

@@ -18,7 +18,12 @@ module.exports = {
 				use: [
 					MiniCssExtractPlugin.loader,
 					'css-loader',
-					'webfonts-loader'
+					{
+						loader: 'webfonts-loader',
+						options: {
+							publicPath: 'https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/'
+						}
+					}
 				]
 			}
 		]
