@@ -18,367 +18,235 @@ url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/
 	vertical-align: top;
 }
 
-.wsu-i-alarm-drk:before {
+.wsu-i-alarm:before {
 	content: "\F101";
 }
-.wsu-i-alarm-lht:before {
+.wsu-i-alert-notification:before {
 	content: "\F102";
 }
-.wsu-i-alert-notification-drk:before {
+.wsu-i-arrow-down-carrot:before {
 	content: "\F103";
 }
-.wsu-i-alert-notification-lht:before {
+.wsu-i-arrow-down:before {
 	content: "\F104";
 }
-.wsu-i-arrow-down-carrot-drk:before {
+.wsu-i-arrow-left-carrot:before {
 	content: "\F105";
 }
-.wsu-i-arrow-down-carrot-lht:before {
+.wsu-i-arrow-left:before {
 	content: "\F106";
 }
-.wsu-i-arrow-down-drk:before {
+.wsu-i-arrow-right-carrot:before {
 	content: "\F107";
 }
-.wsu-i-arrow-down-lht:before {
+.wsu-i-arrow-right:before {
 	content: "\F108";
 }
-.wsu-i-arrow-left-carrot-drk:before {
+.wsu-i-arrow-up-carrot:before {
 	content: "\F109";
 }
-.wsu-i-arrow-left-carrot-lht:before {
+.wsu-i-arrow-up:before {
 	content: "\F10A";
 }
-.wsu-i-arrow-left-drk:before {
+.wsu-i-attachment:before {
 	content: "\F10B";
 }
-.wsu-i-arrow-left-lht:before {
+.wsu-i-basket:before {
 	content: "\F10C";
 }
-.wsu-i-arrow-right-carrot-drk:before {
+.wsu-i-bookmark:before {
 	content: "\F10D";
 }
-.wsu-i-arrow-right-carrot-lht:before {
+.wsu-i-calendar:before {
 	content: "\F10E";
 }
-.wsu-i-arrow-right-drk:before {
+.wsu-i-cart:before {
 	content: "\F10F";
 }
-.wsu-i-arrow-right-lht:before {
+.wsu-i-check:before {
 	content: "\F110";
 }
-.wsu-i-arrow-up-carrot-drk:before {
+.wsu-i-comment:before {
 	content: "\F111";
 }
-.wsu-i-arrow-up-carrot-lht:before {
+.wsu-i-cut:before {
 	content: "\F112";
 }
-.wsu-i-arrow-up-drk:before {
+.wsu-i-discussion:before {
 	content: "\F113";
 }
-.wsu-i-arrow-up-lht:before {
+.wsu-i-document:before {
 	content: "\F114";
 }
-.wsu-i-attachment-drk:before {
+.wsu-i-download:before {
 	content: "\F115";
 }
-.wsu-i-attachment-lht:before {
+.wsu-i-edit:before {
 	content: "\F116";
 }
-.wsu-i-basket-drk:before {
+.wsu-i-email:before {
 	content: "\F117";
 }
-.wsu-i-basket-lht:before {
+.wsu-i-expand:before {
 	content: "\F118";
 }
-.wsu-i-bookmark-drk:before {
+.wsu-i-favorite:before {
 	content: "\F119";
 }
-.wsu-i-bookmark-lht:before {
+.wsu-i-feedback:before {
 	content: "\F11A";
 }
-.wsu-i-calendar-drk:before {
+.wsu-i-filter:before {
 	content: "\F11B";
 }
-.wsu-i-calendar-lht:before {
+.wsu-i-flag:before {
 	content: "\F11C";
 }
-.wsu-i-cart-drk:before {
+.wsu-i-gallery:before {
 	content: "\F11D";
 }
-.wsu-i-cart-lht:before {
+.wsu-i-graph:before {
 	content: "\F11E";
 }
-.wsu-i-check-drk:before {
+.wsu-i-home:before {
 	content: "\F11F";
 }
-.wsu-i-check-lht:before {
+.wsu-i-info:before {
 	content: "\F120";
 }
-.wsu-i-comment-drk:before {
+.wsu-i-key:before {
 	content: "\F121";
 }
-.wsu-i-comment-lht:before {
+.wsu-i-light-bulb:before {
 	content: "\F122";
 }
-.wsu-i-discussion-drk:before {
+.wsu-i-link:before {
 	content: "\F123";
 }
-.wsu-i-discussion-lht:before {
+.wsu-i-location:before {
 	content: "\F124";
 }
-.wsu-i-document-drk:before {
+.wsu-i-map-location:before {
 	content: "\F125";
 }
-.wsu-i-document-lht:before {
+.wsu-i-map:before {
 	content: "\F126";
 }
-.wsu-i-edit-write-drk:before {
+.wsu-i-menu:before {
 	content: "\F127";
 }
-.wsu-i-edit-write-lht:before {
+.wsu-i-minus-circle:before {
 	content: "\F128";
 }
-.wsu-i-email-drk:before {
+.wsu-i-minus:before {
 	content: "\F129";
 }
-.wsu-i-email-lht:before {
+.wsu-i-more:before {
 	content: "\F12A";
 }
-.wsu-i-facebook-colr:before {
+.wsu-i-next:before {
 	content: "\F12B";
 }
-.wsu-i-facebook-drk:before {
+.wsu-i-pause:before {
 	content: "\F12C";
 }
-.wsu-i-facebook-lht:before {
+.wsu-i-phone:before {
 	content: "\F12D";
 }
-.wsu-i-favorite-drk:before {
+.wsu-i-photos:before {
 	content: "\F12E";
 }
-.wsu-i-favorite-lht:before {
+.wsu-i-play-circle:before {
 	content: "\F12F";
 }
-.wsu-i-feedback-drk:before {
+.wsu-i-play:before {
 	content: "\F130";
 }
-.wsu-i-feedback-lht:before {
+.wsu-i-plus:before {
 	content: "\F131";
 }
-.wsu-i-home-drk:before {
+.wsu-i-pluse-circle:before {
 	content: "\F132";
 }
-.wsu-i-home-lht:before {
+.wsu-i-previous:before {
 	content: "\F133";
 }
-.wsu-i-info-drk:before {
+.wsu-i-print:before {
 	content: "\F134";
 }
-.wsu-i-info-lht:before {
+.wsu-i-profile:before {
 	content: "\F135";
 }
-.wsu-i-instagram-colr:before {
+.wsu-i-rate:before {
 	content: "\F136";
 }
-.wsu-i-instagram-drk:before {
+.wsu-i-refresh:before {
 	content: "\F137";
 }
-.wsu-i-instagram-lht:before {
+.wsu-i-save:before {
 	content: "\F138";
 }
-.wsu-i-link-drk:before {
+.wsu-i-search:before {
 	content: "\F139";
 }
-.wsu-i-link-lht:before {
+.wsu-i-secure:before {
 	content: "\F13A";
 }
-.wsu-i-linkedin-colr:before {
+.wsu-i-send:before {
 	content: "\F13B";
 }
-.wsu-i-linkedin-drk:before {
+.wsu-i-settings:before {
 	content: "\F13C";
 }
-.wsu-i-linkedin-lht:before {
+.wsu-i-share:before {
 	content: "\F13D";
 }
-.wsu-i-location-drk:before {
+.wsu-i-social-facebook:before {
 	content: "\F13E";
 }
-.wsu-i-location-lht:before {
+.wsu-i-social-instagram:before {
 	content: "\F13F";
 }
-.wsu-i-map-drk:before {
+.wsu-i-social-linkedin:before {
 	content: "\F140";
 }
-.wsu-i-map-lht:before {
+.wsu-i-social-twitter:before {
 	content: "\F141";
 }
-.wsu-i-menu-drk:before {
+.wsu-i-social-youtube:before {
 	content: "\F142";
 }
-.wsu-i-menu-lht:before {
+.wsu-i-stop-circle:before {
 	content: "\F143";
 }
-.wsu-i-minus-circle-drk:before {
+.wsu-i-stop:before {
 	content: "\F144";
 }
-.wsu-i-minus-circle-lht:before {
+.wsu-i-tent:before {
 	content: "\F145";
 }
-.wsu-i-minus-drk:before {
+.wsu-i-time:before {
 	content: "\F146";
 }
-.wsu-i-minus-lht:before {
+.wsu-i-trash:before {
 	content: "\F147";
 }
-.wsu-i-more-drk:before {
+.wsu-i-video-slideshow:before {
 	content: "\F148";
 }
-.wsu-i-more-lht:before {
+.wsu-i-warning-caution:before {
 	content: "\F149";
 }
-.wsu-i-next-drk:before {
+.wsu-i-warning-stop:before {
 	content: "\F14A";
 }
-.wsu-i-next-lht:before {
+.wsu-i-x-close:before {
 	content: "\F14B";
 }
-.wsu-i-pause-drk:before {
+.wsu-i-zoom-in:before {
 	content: "\F14C";
 }
-.wsu-i-pause-lht:before {
+.wsu-i-zoom-out:before {
 	content: "\F14D";
-}
-.wsu-i-phone-drk:before {
-	content: "\F14E";
-}
-.wsu-i-phone-lht:before {
-	content: "\F14F";
-}
-.wsu-i-photos-drk:before {
-	content: "\F150";
-}
-.wsu-i-photos-lht:before {
-	content: "\F151";
-}
-.wsu-i-play-circle-drk:before {
-	content: "\F152";
-}
-.wsu-i-play-circle-lht:before {
-	content: "\F153";
-}
-.wsu-i-play-drk:before {
-	content: "\F154";
-}
-.wsu-i-play-lht:before {
-	content: "\F155";
-}
-.wsu-i-plus-circle-drk:before {
-	content: "\F156";
-}
-.wsu-i-plus-circle-lht:before {
-	content: "\F157";
-}
-.wsu-i-plus-drk:before {
-	content: "\F158";
-}
-.wsu-i-plus-lht:before {
-	content: "\F159";
-}
-.wsu-i-previous-drk:before {
-	content: "\F15A";
-}
-.wsu-i-previous-lht:before {
-	content: "\F15B";
-}
-.wsu-i-profile-drk:before {
-	content: "\F15C";
-}
-.wsu-i-profile-lht:before {
-	content: "\F15D";
-}
-.wsu-i-rate-drk:before {
-	content: "\F15E";
-}
-.wsu-i-rate-lht:before {
-	content: "\F15F";
-}
-.wsu-i-search-drk:before {
-	content: "\F160";
-}
-.wsu-i-search-lht:before {
-	content: "\F161";
-}
-.wsu-i-secure-drk:before {
-	content: "\F162";
-}
-.wsu-i-secure-lht:before {
-	content: "\F163";
-}
-.wsu-i-send-drk:before {
-	content: "\F164";
-}
-.wsu-i-send-lht:before {
-	content: "\F165";
-}
-.wsu-i-settings-drk:before {
-	content: "\F166";
-}
-.wsu-i-settings-lht:before {
-	content: "\F167";
-}
-.wsu-i-stop-drk:before {
-	content: "\F168";
-}
-.wsu-i-stop-lht:before {
-	content: "\F169";
-}
-.wsu-i-time-drk:before {
-	content: "\F16A";
-}
-.wsu-i-time-lht:before {
-	content: "\F16B";
-}
-.wsu-i-trash-drk:before {
-	content: "\F16C";
-}
-.wsu-i-trash-lht:before {
-	content: "\F16D";
-}
-.wsu-i-twitter-colr:before {
-	content: "\F16E";
-}
-.wsu-i-twitter-drk:before {
-	content: "\F16F";
-}
-.wsu-i-twitter-lht:before {
-	content: "\F170";
-}
-.wsu-i-video-slideshow-drk:before {
-	content: "\F171";
-}
-.wsu-i-video-slideshow-lht:before {
-	content: "\F172";
-}
-.wsu-i-x-circle-drk:before {
-	content: "\F173";
-}
-.wsu-i-x-circle-lht:before {
-	content: "\F174";
-}
-.wsu-i-x-drk:before {
-	content: "\F175";
-}
-.wsu-i-x-lht:before {
-	content: "\F176";
-}
-.wsu-i-youtube-colr:before {
-	content: "\F177";
-}
-.wsu-i-youtube-drk:before {
-	content: "\F178";
-}
-.wsu-i-youtube-lht:before {
-	content: "\F179";
 }
 
