@@ -1,6 +1,6 @@
 {
     "name": "@wsu/icons",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "An officially branded WSU icon set.",
     "main": "index.js",
     "scripts": {
