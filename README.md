@@ -7,7 +7,15 @@ An officially branded WSU icon set.
 3. `npm run build`
 
 ## How to Use
-`<span class="wsu-icon wsu-i-alarm"></span>`
+- In CSS 
+```css
+content: "\F103"; 
+font-family: "wsu-icons";
+```
+- In HTML 
+```html
+<span class="wsu-icon wsu-i-alarm"></span>
+```
 
 ## Icons
 - alarm `wsu-i-alarm`
