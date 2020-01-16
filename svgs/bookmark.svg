@@ -1,1 +1,39 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 16"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-bookmark</title><g id="icon-bookmark"><path class="cls-1" d="M12.0005,0H4A1,1,0,0,0,3,1V15.4759A.5828.5828,0,0,0,3.63,16a.6773.6773,0,0,0,.4374-.1542L8,13l3.9329,2.8458A.6776.6776,0,0,0,12.3705,16a.5828.5828,0,0,0,.63-.5241V1A1,1,0,0,0,12.0005,0ZM10.9544,2.0456V3.9769H5.0456V2.0456Zm-1.7552,9.297L8,10.475l-1.1992.8676-1.7553,1.27v-6.59h5.9088v6.59Z" transform="translate(-3.0001 0)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-bookmark_2_">
+		<g>
+			<path class="st2" d="M12.0005,0H3.9996C3.4476,0,3.0001,0.4475,3.0001,0.9996v14.4763C3.0001,15.7911,3.3083,16,3.6296,16
+				c0.1536,0,0.3101-0.0477,0.4374-0.1542L8.0001,13l3.933,2.8458C12.0604,15.9523,12.217,16,12.3705,16
+				c0.3214,0,0.6296-0.2088,0.6296-0.5241V0.9996C13.0001,0.4475,12.5525,0,12.0005,0z M10.9544,2.0456v1.9313H5.0457V2.0456
+				H10.9544z M9.1992,11.3426L8.0001,10.475l-1.1992,0.8676l-1.7552,1.27V6.0228h5.9088v6.5898L9.1992,11.3426z"/>
+		</g>
+	</g>
+</g>
+</svg>

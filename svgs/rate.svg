@@ -1,1 +1,40 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-rate</title><g id="icon-rate"><path class="cls-1" d="M4.1341,16a1.583,1.583,0,0,1-1.5085-2.0524l1.1667-3.7411L.6144,7.737a1.581,1.581,0,0,1,.968-2.83H5.2363L6.5017,1.0836a1.5785,1.5785,0,0,1,2.9978,0l1.2653,3.8236h3.6534a1.5812,1.5812,0,0,1,.9685,2.83l-3.1984,2.4846L13.3389,13.93a1.58,1.58,0,0,1-2.474,1.72L8.0018,13.4324,5.0967,15.6709A1.5777,1.5777,0,0,1,4.1341,16ZM2.8058,6.9074,6.1141,9.4779,4.93,13.2742l3.0744-2.3684,3.03,2.3464-1.1662-3.76,3.3264-2.5847H9.3208L8,2.9187,6.68,6.9074Z" transform="translate(-0.0003 0)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-rate_2_">
+		<path class="st2" d="M4.1341,16c-0.3144,0-0.6292-0.0942-0.9016-0.2842c-0.5687-0.3955-0.8123-1.1065-0.6068-1.7682l1.1667-3.7411
+			L0.6144,7.737C0.0725,7.3156-0.134,6.6241,0.0886,5.9747c0.2226-0.6485,0.8089-1.0675,1.4938-1.0675h3.6539l1.2653-3.8236
+			C6.716,0.4356,7.3184,0,8.0003,0c0.6825,0,1.2848,0.4356,1.4992,1.0836l1.2653,3.8236h3.6534c0.6849,0,1.2712,0.419,1.4938,1.0675
+			c0.2226,0.6495,0.0161,1.3409-0.5253,1.7624l-3.1985,2.4846l1.1506,3.7083c0.2055,0.6627-0.0395,1.3732-0.6087,1.7682
+			c-0.5682,0.3946-1.318,0.376-1.8653-0.0483l-2.8631-2.2175l-2.9051,2.2385C4.8121,15.8896,4.4733,16,4.1341,16z M2.8058,6.9074
+			l3.3083,2.5705l-1.1838,3.7962l3.0745-2.3684l3.03,2.3464L9.8685,9.4921l3.3264-2.5847H9.3208L8.0003,2.9187l-1.32,3.9886H2.8058z
+			"/>
+	</g>
+</g>
+</svg>

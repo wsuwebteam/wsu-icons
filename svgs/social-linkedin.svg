@@ -1,1 +1,40 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12"><defs><style>.cls-1{fill:#404040;fill-rule:evenodd;}</style></defs><title>icon-social-linkedin</title><g id="icon-social-linkedin"><path class="cls-1" d="M13.0016,2H2.9984A.9984.9984,0,0,0,2,2.9984V13.0016A.9984.9984,0,0,0,2.9984,14H13.0016A.9984.9984,0,0,0,14,13.0016V2.9984A.9984.9984,0,0,0,13.0016,2ZM5.6476,12.1184H3.8V6.5609h1.848Zm-.924-6.3126A1.0282,1.0282,0,1,1,5.7518,4.7776,1.0282,1.0282,0,0,1,4.7236,5.8058Zm7.5852,6.3126H10.4609V9.1451c0-.7468-.2673-1.257-.9362-1.257a1.0119,1.0119,0,0,0-.9475.676,1.2811,1.2811,0,0,0-.06.4507v3.1036H6.6688s.0247-5.0362,0-5.5575H8.5169v.7875A1.8311,1.8311,0,0,1,10.1813,6.43c1.2159,0,2.1275.7942,2.1275,2.5015Z" transform="translate(-2 -2)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-social-linkedin_2_">
+		<path class="st7" d="M13.0016,2H2.9984C2.447,2,2,2.447,2,2.9984v10.0033C2,13.553,2.447,14,2.9984,14h10.0033
+			C13.553,14,14,13.553,14,13.0016V2.9984C14,2.447,13.553,2,13.0016,2z M5.6476,12.1184h-1.848V6.5609h1.848V12.1184z
+			 M4.7236,5.8058c-0.5678,0-1.0281-0.4604-1.0281-1.0282c0-0.5679,0.4603-1.0282,1.0281-1.0282
+			c0.5679,0,1.0282,0.4603,1.0282,1.0282C5.7518,5.3455,5.2914,5.8058,4.7236,5.8058z M12.3088,12.1184h-1.8479V9.1451
+			c0-0.7469-0.2673-1.257-0.9363-1.257c-0.5101,0-0.8131,0.344-0.9474,0.676C8.5291,8.6826,8.5169,8.8487,8.5169,9.0148v3.1036
+			H6.6688c0,0,0.0247-5.0363,0-5.5576h1.8481v0.7875c0.2449-0.3787,0.683-0.9181,1.6644-0.9181
+			c1.2159,0,2.1276,0.7942,2.1276,2.5015V12.1184z"/>
+	</g>
+</g>
+</svg>

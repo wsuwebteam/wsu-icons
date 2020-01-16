@@ -1,1 +1,46 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.8484 15.5"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-alert-notification</title><g id="icon-alert-notification"><path class="cls-1" d="M12.5179,8.0236A.044.044,0,0,1,12.5,7.9885V6.2333A4.6974,4.6974,0,0,0,8.9746,1.6274.9423.9423,0,0,0,9,1.5a1,1,0,0,0-2,0,.9376.9376,0,0,0,.0229.1132A4.4972,4.4972,0,0,0,3.5,6V7.9885a.0434.0434,0,0,1-.0175.035A7.4959,7.4959,0,0,0,.5875,12.8562,1.0014,1.0014,0,0,0,1.58,14H6a2,2,0,0,0,4,0h4.4166a1.0044,1.0044,0,0,0,.996-1.1463A7.4959,7.4959,0,0,0,12.5179,8.0236ZM2.8762,12A5.5,5.5,0,0,1,4.6876,9.62L5.5,8.9848V6A2.5028,2.5028,0,0,1,8,3.5q.1137,0,.23.01A2.6811,2.6811,0,0,1,10.5,6.2333V7.9885l.0175,1.03.7929.6A5.5047,5.5047,0,0,1,13.1244,12Z" transform="translate(-0.576 -0.5)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-alert-notification_2_">
+		<g>
+			<g>
+				<path class="st2" d="M12.5179,8.0236c-0.011-0.0084-0.0175-0.0212-0.0175-0.0351V6.2333
+					c-0.0001-2.1749-1.4628-4.1325-3.5258-4.606C8.9804,1.5838,9.0003,1.5451,9.0003,1.5c0-0.5523-0.4478-1-1-1
+					c-0.5523,0-1,0.4477-1,1c0,0.0402,0.0182,0.0743,0.0228,0.1132C5.0091,2.0605,3.5003,3.8512,3.5003,6L3.5003,7.9885
+					c0,0.0139-0.0064,0.0267-0.0175,0.035c-1.5208,1.1512-2.5927,2.8641-2.8953,4.8327C0.495,13.4573,0.9722,14,1.5803,14
+					c1.0122,0,2.6354,0,4.42,0c0,1.1046,0.8954,2,2,2c1.1046,0,2-0.8954,2-2c1.7825,0,3.4042,0,4.4166,0
+					c0.6094-0.0001,1.0888-0.5439,0.996-1.1462C15.1096,10.8862,14.038,9.1743,12.5179,8.0236z M2.8762,12
+					c0.366-0.9341,0.9871-1.7561,1.8114-2.3801l0.8126-0.6351l0.0001-0.9962L5.5003,6c0-1.3785,1.1215-2.5,2.5-2.5
+					c0.0758,0,0.1524,0.0033,0.2296,0.01c1.252,0.1088,2.2704,1.3305,2.2705,2.7233v1.7552l0.0175,1.0295l0.7928,0.6002
+					c0.8259,0.6252,1.4475,1.4475,1.8137,2.3818H2.8762z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

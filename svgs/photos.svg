@@ -1,1 +1,42 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 15.0236"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-photos</title><g id="icon-photos"><path class="cls-1" d="M8,6A2,2,0,1,1,6,8,2.0023,2.0023,0,0,1,8,6M8,4a4,4,0,1,0,4,4A4,4,0,0,0,8,4Z" transform="translate(-0.0003 0)"/><path class="cls-1" d="M9.7643,2l.4472.8944L10.7642,4H14v9.0236H2V4H5.2364l.5528-1.1056L6.2364,2H9.7643M11,0H5L4,2H2A2.0059,2.0059,0,0,0,0,4v9.0236a2.0059,2.0059,0,0,0,2,2H14a2.0059,2.0059,0,0,0,2-2V4a2.0059,2.0059,0,0,0-2-2H12L11,0Z" transform="translate(-0.0003 0)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-photos_2_">
+		<g>
+			<g>
+				<path class="st2" d="M8.0003,6c1.1028,0,2,0.8972,2,2s-0.8972,2-2,2s-2-0.8972-2-2S6.8975,6,8.0003,6 M8.0003,4
+					c-2.2091,0-4,1.7909-4,4c0,2.2091,1.7909,4,4,4s4-1.7909,4-4C12.0003,5.7909,10.2095,4,8.0003,4L8.0003,4z"/>
+				<path class="st2" d="M9.7643,2l0.4472,0.8944L10.7642,4h1.2361h2v9.0236h-12V4h2h1.2361l0.5528-1.1056L6.2364,2H9.7643
+					 M11.0003,0h-6l-1,2h-2c-1.1,0-2,0.9-2,2v9.0236c0,1.1,0.9,2,2,2h12c1.1,0,2-0.9,2-2V4c0-1.1-0.9-2-2-2h-2L11.0003,0L11.0003,0z
+					"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

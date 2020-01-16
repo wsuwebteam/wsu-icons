@@ -1,1 +1,41 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.9997 15.9998"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-send</title><g id="icon-send"><path class="cls-1" d="M10,16a1,1,0,0,1-.8946-.5527L6.2547,9.745.5526,6.8944A1,1,0,0,1,.6639,5.058l14-5a1,1,0,0,1,1.2774,1.2783l-5,14a1,1,0,0,1-.8809.6616C10.04,15.9994,10.0194,16,10,16ZM8.2166,9.1972l1.63,3.26,3.502-9.8052L3.5428,6.1537l3.26,1.6294,1.49-1.49a1,1,0,0,1,1.4141,1.414Z" transform="translate(0.0001 -0.0001)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-send_2_">
+		<g>
+			<path class="st2" d="M9.9999,15.9999c-0.377,0-0.7246-0.2124-0.8945-0.5527L6.2547,9.745L0.5526,6.8944
+				C0.1942,6.7152-0.0226,6.3392,0.0018,5.9398C0.0262,5.5399,0.286,5.1928,0.6639,5.058l14-5
+				c0.3613-0.1289,0.7695-0.0391,1.043,0.2349c0.2734,0.2729,0.3643,0.6792,0.2344,1.0435l-5,14
+				c-0.1348,0.377-0.4814,0.6377-0.8809,0.6616C10.0399,15.9994,10.0194,15.9999,9.9999,15.9999z M8.2166,9.1972l1.6299,3.2598
+				l3.502-9.8052l-9.8057,3.502l3.2598,1.6294l1.4902-1.4902c0.3906-0.3906,1.0234-0.3906,1.4141,0s0.3906,1.0234,0,1.4141
+				L8.2166,9.1972z"/>
+		</g>
+	</g>
+</g>
+</svg>

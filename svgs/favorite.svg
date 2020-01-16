@@ -1,1 +1,43 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.9925 13.604"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-favorite</title><g id="icon-favorite"><path class="cls-1" d="M11.5059,3a2.5354,2.5354,0,0,1,1.7839.7116,2.3229,2.3229,0,0,1-.0218,3.3566l-.2982.3-4.9651,4.84L3.0537,7.39l-.3418-.3433A2.3166,2.3166,0,0,1,2.7037,3.72,2.5984,2.5984,0,0,1,6.28,3.7118l.33.3215L8.0276,5.4146l1.396-1.4029.2983-.3A2.5356,2.5356,0,0,1,11.5059,3m0-2a4.5437,4.5437,0,0,0-3.18,1.2794l-.32.3216-.33-.3216a4.5981,4.5981,0,0,0-6.36,0,4.3165,4.3165,0,0,0,0,6.1994l.32.3217,5.672,5.52A1,1,0,0,0,8.7033,14.32l5.6625-5.52.32-.3217a4.3222,4.3222,0,0,0,0-6.1994A4.5437,4.5437,0,0,0,11.5059,1Z" transform="translate(-0.0034 -1)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-favorite_2_">
+		<g>
+			<path class="st2" d="M11.5059,3c0.6797,0,1.3132,0.2527,1.784,0.7115c0.4487,0.4373,0.706,1.0451,0.706,1.6675
+				s-0.2573,1.2302-0.7278,1.6891l-0.2982,0.3001l-4.9651,4.8398l-4.951-4.8182L2.7119,7.0466
+				C2.255,6.6013,2.0034,6.0091,2.0034,5.3791S2.255,4.1569,2.7037,3.7195C3.1835,3.2571,3.82,3.0025,4.4959,3.0025
+				S5.8082,3.2571,6.28,3.7118l0.33,0.3216l1.4175,1.3813l1.396-1.403l0.2983-0.3001C10.1926,3.2527,10.8262,3,11.5059,3 M11.5059,1
+				c-1.1525,0-2.305,0.4265-3.18,1.2794l-0.32,0.3216l-0.33-0.3216c-0.88-0.848-2.03-1.2769-3.18-1.2769
+				c-1.15,0-2.3,0.4289-3.18,1.2769c-1.75,1.7058-1.75,4.4937,0,6.1995l0.32,0.3217l5.672,5.5202
+				c0.1941,0.1889,0.4458,0.2834,0.6974,0.2834c0.252,0,0.5038-0.0946,0.698-0.2839l5.6625-5.5197l0.32-0.3217
+				c0.87-0.848,1.31-1.9788,1.31-3.0997c0-1.121-0.44-2.2517-1.31-3.0997C13.8109,1.4265,12.6584,1,11.5059,1L11.5059,1z"/>
+		</g>
+	</g>
+</g>
+</svg>

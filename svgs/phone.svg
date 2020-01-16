@@ -1,1 +1,41 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.0002 14.0002"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-phone</title><g id="icon-phone"><path class="cls-1" d="M15,10.4389a1,1,0,0,0-.9-.995l-3.3042-.33a1,1,0,0,0-1.0481.6788L9.25,11.285A13.17,13.17,0,0,1,4.7153,6.75L6.208,6.2528a1,1,0,0,0,.6789-1.0482l-.33-3.3041A1,1,0,0,0,5.5614,1H2s-.0877.0024-.1367.01A1.0005,1.0005,0,0,0,1.01,2.1369a15.1062,15.1062,0,0,0,12.854,12.854,1.0008,1.0008,0,0,0,1.1274-.854C14.9978,14.0876,15,14,15,14Z" transform="translate(-1.0002 -1)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-phone_2_">
+		<g>
+			<path class="st2" d="M15.0003,10.4389c0-0.5137-0.3893-0.9439-0.9005-0.9951l-3.3041-0.3304
+				C10.3306,9.067,9.8953,9.3488,9.7476,9.7923L9.25,11.285C7.3896,10.172,5.8283,8.6106,4.7153,6.7504L6.208,6.2528
+				c0.4435-0.1478,0.7253-0.5831,0.6788-1.0482L6.5564,1.9005C6.5053,1.3893,6.0752,1,5.5614,1H2.0003
+				c0,0-0.0877,0.0024-0.1367,0.0095c-0.5469,0.0757-0.9292,0.5801-0.854,1.1274c0.9175,6.6504,6.2031,11.936,12.854,12.854
+				c0.0464,0.0063,0.0923,0.0093,0.1382,0.0093c0.4912,0,0.9199-0.3628,0.9893-0.8633C14.9978,14.0876,15.0003,14,15.0003,14
+				V10.4389z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,1 +1,47 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16.0005"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-warning-stop</title><g id="icon-warning-stop"><path class="cls-1" d="M9.4139,8l1.2929-1.2929a1,1,0,1,0-1.414-1.4141L8,6.5862l-1.293-1.293a1,1,0,1,0-1.414,1.4141L6.5857,8,5.2928,9.2932a1,1,0,1,0,1.414,1.4141L8,9.4143l1.293,1.293a1,1,0,1,0,1.414-1.4141Z" transform="translate(0.0002 0.0002)"/><path class="cls-1" d="M15,2A12.9662,12.9662,0,0,1,8.5545.1682a.9975.9975,0,0,0-1.1094,0A12.822,12.822,0,0,1,1,2,1,1,0,0,0,0,3c0,10.74,6.6836,13,8,13s8-2.26,8-13A1,1,0,0,0,15,2ZM8.0027,14c-.9565-.0425-5.6189-1.9917-5.969-10.0463A15.1631,15.1631,0,0,0,8,2.1624a15.1637,15.1637,0,0,0,5.9661,1.7911C13.6158,12.0081,8.9537,13.9573,8.0027,14Z" transform="translate(0.0002 0.0002)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-warning-stop_2_">
+		<g>
+			<g>
+				<path class="st2" d="M9.4139,8.0002l1.293-1.293c0.3906-0.3906,0.3906-1.0234,0-1.4141s-1.0234-0.3906-1.4141,0l-1.293,1.293
+					l-1.293-1.293c-0.3906-0.3906-1.0234-0.3906-1.4141,0s-0.3906,1.0234,0,1.4141l1.293,1.293l-1.293,1.293
+					c-0.3906,0.3906-0.3906,1.0234,0,1.4141c0.1953,0.1953,0.4512,0.293,0.707,0.293s0.5117-0.0977,0.707-0.293l1.293-1.293
+					l1.293,1.293c0.1953,0.1953,0.4512,0.293,0.707,0.293s0.5117-0.0977,0.707-0.293c0.3906-0.3906,0.3906-1.0234,0-1.4141
+					L9.4139,8.0002z"/>
+				<path class="st2" d="M14.9998,2.0002c-3.6279,0-6.4189-1.8154-6.4453-1.832c-0.3359-0.2246-0.7734-0.2246-1.1094,0
+					c-0.0273,0.0186-2.79,1.832-6.4453,1.832c-0.5527,0-1,0.4473-1,1c0,10.7402,6.6836,13,8,13s8-2.2598,8-13
+					C15.9998,2.4475,15.5525,2.0002,14.9998,2.0002z M8.0027,13.9998c-0.9565-0.0425-5.6189-1.9917-5.969-10.0463
+					C4.8174,3.7356,7.0184,2.705,7.9998,2.1624c0.9814,0.5426,3.1824,1.5732,5.9661,1.7911
+					C13.6158,12.0081,8.9537,13.9573,8.0027,13.9998z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

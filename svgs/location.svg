@@ -1,1 +1,39 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 15.2508"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-location</title><g id="icon-location"><path class="cls-1" d="M8,0A5,5,0,0,0,3,5c0,3.3417,2.7572,7.7623,4.1767,9.8166a.9977.9977,0,0,0,1.6466,0C10.2431,12.7623,13,8.3417,13,5A5,5,0,0,0,8,0ZM7.4125,2.0562A3.0019,3.0019,0,1,1,5.0566,4.4121,3.0061,3.0061,0,0,1,7.4125,2.0562Z" transform="translate(-3.0003 0)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-location_2_">
+		<g>
+			<path class="st2" d="M8.0003,0c-2.7614,0-5,2.2386-5,5c0,3.3417,2.7572,7.7623,4.1767,9.8166c0.4,0.5788,1.2467,0.5788,1.6466,0
+				c1.4195-2.0544,4.1767-6.475,4.1767-9.8166C13.0003,2.2386,10.7617,0,8.0003,0z M7.4125,2.0562
+				c2.1099-0.4029,3.9344,1.4215,3.5316,3.5314c-0.2239,1.1726-1.183,2.132-2.3556,2.3561c-2.1101,0.4032-3.935-1.4215-3.532-3.5316
+				C5.2805,3.2394,6.2399,2.2801,7.4125,2.0562z"/>
+		</g>
+	</g>
+</g>
+</svg>

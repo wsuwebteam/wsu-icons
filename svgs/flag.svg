@@ -1,1 +1,42 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.9999 16"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-flag</title><g id="icon-flag"><path class="cls-1" d="M1,16a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H8A1,1,0,0,1,9,1V3h6a1,1,0,0,1,.814,1.5811L13.7288,7.5l2.085,2.919A1,1,0,0,1,15,12H8a1,1,0,0,1-1-1V9H2v6A1,1,0,0,1,1,16Zm8-6h4.0567L11.6858,8.0812a1.0006,1.0006,0,0,1,0-1.1621L13.0565,5H9ZM2,7H7V2H2Z" transform="translate(0.0002 -0.0001)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-flag_2_">
+		<g>
+			<g>
+				<path class="st2" d="M0.9998,16.0001c-0.5522,0-1-0.4473-1-1v-14c0-0.5527,0.4478-1,1-1h7c0.5522,0,1,0.4473,1,1v2h6
+					c0.3745,0,0.7178,0.209,0.8892,0.542c0.1714,0.334,0.1421,0.7344-0.0752,1.0391l-2.085,2.9189l2.085,2.9189
+					c0.2173,0.3047,0.2466,0.7051,0.0752,1.0391c-0.1714,0.333-0.5146,0.542-0.8892,0.542h-7c-0.5522,0-1-0.4473-1-1v-2h-5v6
+					C1.9998,15.5528,1.5521,16.0001,0.9998,16.0001z M8.9998,10.0001h4.0566l-1.3706-1.9189c-0.248-0.3477-0.248-0.8145,0-1.1621
+					l1.3706-1.9189H8.9998V10.0001z M1.9998,7.0001h5v-5h-5V7.0001z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

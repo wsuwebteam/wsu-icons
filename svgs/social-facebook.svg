@@ -1,1 +1,36 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 11.9271"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-social-facebook</title><g id="icon-social-facebook"><path class="cls-1" d="M8,2a6,6,0,0,0-.9375,11.9271V9.7344H5.5391V8H7.0625V6.6781A2.1174,2.1174,0,0,1,9.3288,4.3437a9.227,9.227,0,0,1,1.3431.1172V5.9375H9.9153a.8672.8672,0,0,0-.9778.937V8h1.6641l-.266,1.7344H8.9375v4.1927A6,6,0,0,0,8,2Z" transform="translate(-2 -2)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-social-facebook_2_">
+		<path class="st2" d="M8,2C4.6863,2,2,4.6863,2,8c0,2.9948,2.1941,5.477,5.0625,5.9271V9.7344H5.5391V8h1.5234V6.6781
+			c0-1.5037,0.8958-2.3344,2.2663-2.3344c0.6564,0,1.3431,0.1172,1.3431,0.1172v1.4766H9.9153c-0.7454,0-0.9778,0.4625-0.9778,0.937
+			V8h1.6641l-0.266,1.7344H8.9375v4.1927C11.8059,13.477,14,10.9948,14,8C14,4.6863,11.3137,2,8,2z"/>
+	</g>
+</g>
+</svg>

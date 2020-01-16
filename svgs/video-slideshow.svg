@@ -1,1 +1,41 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 11.8936"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-video-slideshow</title><g id="icon-video-slideshow"><path class="cls-1" d="M15,2.0531H1a1,1,0,0,0-1,1v9.8935a.9994.9994,0,0,0,1,1H15a.9994.9994,0,0,0,1-1V3.0531A1,1,0,0,0,15,2.0531Zm-1,2v7.8935H2V4.0531Z" transform="translate(0 -2.0531)"/><path class="cls-1" d="M7.2472,9.9357,9.9407,8.4394a.503.503,0,0,0,0-.8793L7.2472,6.0638a.5029.5029,0,0,0-.7472.44V9.4961A.5029.5029,0,0,0,7.2472,9.9357Z" transform="translate(0 -2.0531)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-video-slideshow_2_">
+		<g>
+			<g>
+				<path class="st2" d="M15,2.0531H1c-0.5527,0-1,0.4473-1,1v9.8936c0,0.5527,0.4473,1,1,1h14c0.5527,0,1-0.4473,1-1V3.0531
+					C16,2.5004,15.5527,2.0531,15,2.0531z M14,4.0531v7.8936H2V4.0531H14z"/>
+				<path class="st2" d="M7.2472,9.9357l2.6935-1.4963c0.3448-0.1916,0.3448-0.6876,0-0.8793L7.2472,6.0638
+					C6.9119,5.8776,6.5,6.1199,6.5,6.5034v2.9927C6.5,9.8796,6.9119,10.122,7.2472,9.9357z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

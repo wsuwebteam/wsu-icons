@@ -1,1 +1,40 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.9997 16.0004"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-key</title><g id="icon-key"><path class="cls-1" d="M15.5807,4.1865,12.5123,1.9948l.2959-.4069A1,1,0,0,0,11.191.4121L5.4648,8.2859A3.9953,3.9953,0,1,0,8,12,3.9628,3.9628,0,0,0,7.0752,9.471L8.9784,6.854l1.94,1.3862a1,1,0,0,0,1.1621-1.627L10.1544,5.237l1.1819-1.6252,3.0823,2.2016a1,1,0,0,0,1.1621-1.6269ZM4,14a2,2,0,1,1,2-2A2.0023,2.0023,0,0,1,4,14Z" transform="translate(0.0002 0.0002)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-key_2_">
+		<path class="st2" d="M15.5807,4.1865l-3.0684-2.1917l0.296-0.4069c0.3252-0.4463,0.2266-1.0723-0.2207-1.3965
+			c-0.4482-0.3252-1.0723-0.2266-1.3965,0.2207L5.4648,8.2859c-0.4547-0.1795-0.9465-0.2858-1.465-0.2858c-2.2092,0-4,1.7908-4,4
+			s1.7908,4,4,4c2.2091,0,4-1.7908,4-4c0-0.965-0.3556-1.8381-0.9246-2.5291l1.9032-2.617l1.9402,1.3862
+			c0.1758,0.126,0.3789,0.1865,0.5801,0.1865c0.3125,0,0.6191-0.1455,0.8145-0.4189c0.3213-0.4492,0.2168-1.0732-0.2324-1.3945
+			L10.1544,5.237l1.1819-1.6251l3.0823,2.2016C14.5944,5.9394,14.7975,6,14.9987,6c0.3125,0,0.6191-0.1455,0.8145-0.4189
+			C16.1344,5.1318,16.0299,4.5068,15.5807,4.1865z M3.9998,14.0001c-1.1028,0-2-0.8972-2-2s0.8972-2,2-2s2,0.8972,2,2
+			S5.1026,14.0001,3.9998,14.0001z"/>
+	</g>
+</g>
+</svg>

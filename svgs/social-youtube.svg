@@ -1,1 +1,38 @@
-<svg id="NEW_NO_Container" data-name="NEW NO Container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 11.2727"><defs><style>.cls-1{fill:#404040;}</style></defs><title>icon-social-youtube</title><g id="icon-social-youtube"><path class="cls-1" d="M15.6657,4.1239A2.01,2.01,0,0,0,14.2511,2.7,47.5106,47.5106,0,0,0,8,2.3636,47.5114,47.5114,0,0,0,1.7489,2.7,2.01,2.01,0,0,0,.3344,4.1239,21.086,21.086,0,0,0,0,8a21.086,21.086,0,0,0,.3344,3.8761A2.0105,2.0105,0,0,0,1.7489,13.3,47.5114,47.5114,0,0,0,8,13.6364,47.5106,47.5106,0,0,0,14.2511,13.3a2.0106,2.0106,0,0,0,1.4146-1.4238A21.0922,21.0922,0,0,0,16,8,21.0922,21.0922,0,0,0,15.6657,4.1239ZM6.3636,10.379V5.621L10.5455,8Z" transform="translate(0 -2.3636)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#404040;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;}
+	.st5{opacity:0.3;fill:none;}
+	.st6{fill:#FF0000;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#2867B2;}
+	.st10{fill:#EE1376;}
+	.st11{fill:#1DA1F2;}
+	.st12{fill:#1877F2;}
+	.st13{display:inline;fill:none;}
+	.st14{display:inline;fill:#404040;}
+	.st15{display:inline;opacity:0.3;fill:none;}
+	.st16{display:inline;fill-rule:evenodd;clip-rule:evenodd;fill:#404040;}
+	.st17{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;}
+</style>
+<g id="Outter_Container" class="st0">
+</g>
+<g id="NEW" class="st0">
+</g>
+<g id="NEW_NO_Container">
+	<g id="icon-social-youtube_2_">
+		<path class="st2" d="M15.6657,4.1239c-0.184-0.6929-0.7262-1.2386-1.4146-1.4238C13.0034,2.3636,8,2.3636,8,2.3636
+			s-5.0033,0-6.2511,0.3365C1.0605,2.8853,0.5184,3.431,0.3344,4.1239C0,5.3798,0,8,0,8s0,2.6202,0.3344,3.8761
+			c0.184,0.6929,0.7262,1.2385,1.4146,1.4238C2.9967,13.6364,8,13.6364,8,13.6364s5.0034,0,6.2511-0.3365
+			c0.6884-0.1852,1.2306-0.7309,1.4146-1.4238C16,10.6202,16,8,16,8S16,5.3798,15.6657,4.1239z M6.3636,10.379V5.621l4.1818,2.3791
+			L6.3636,10.379z"/>
+	</g>
+</g>
+</svg>
