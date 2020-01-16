@@ -66,187 +66,214 @@ url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/
 .wsu-i-check:before {
 	content: "\F110";
 }
-.wsu-i-comment:before {
+.wsu-i-collapse:before {
 	content: "\F111";
 }
-.wsu-i-cut:before {
+.wsu-i-comment:before {
 	content: "\F112";
 }
-.wsu-i-discussion:before {
+.wsu-i-contrast:before {
 	content: "\F113";
 }
-.wsu-i-document:before {
+.wsu-i-credit-card:before {
 	content: "\F114";
 }
-.wsu-i-download:before {
+.wsu-i-cut:before {
 	content: "\F115";
 }
-.wsu-i-edit:before {
+.wsu-i-discussion:before {
 	content: "\F116";
 }
-.wsu-i-email:before {
+.wsu-i-document:before {
 	content: "\F117";
 }
-.wsu-i-expand:before {
+.wsu-i-download:before {
 	content: "\F118";
 }
-.wsu-i-favorite:before {
+.wsu-i-edit:before {
 	content: "\F119";
 }
-.wsu-i-feedback:before {
+.wsu-i-email:before {
 	content: "\F11A";
 }
-.wsu-i-filter:before {
+.wsu-i-expand:before {
 	content: "\F11B";
 }
-.wsu-i-flag:before {
+.wsu-i-favorite:before {
 	content: "\F11C";
 }
-.wsu-i-gallery:before {
+.wsu-i-feedback:before {
 	content: "\F11D";
 }
-.wsu-i-graph:before {
+.wsu-i-filter:before {
 	content: "\F11E";
 }
-.wsu-i-home:before {
+.wsu-i-flag:before {
 	content: "\F11F";
 }
-.wsu-i-info:before {
+.wsu-i-gallery:before {
 	content: "\F120";
 }
-.wsu-i-key:before {
+.wsu-i-graph:before {
 	content: "\F121";
 }
-.wsu-i-light-bulb:before {
+.wsu-i-home:before {
 	content: "\F122";
 }
-.wsu-i-link:before {
+.wsu-i-info:before {
 	content: "\F123";
 }
-.wsu-i-location:before {
+.wsu-i-key:before {
 	content: "\F124";
 }
-.wsu-i-map-location:before {
+.wsu-i-light-bulb:before {
 	content: "\F125";
 }
-.wsu-i-map:before {
+.wsu-i-link:before {
 	content: "\F126";
 }
-.wsu-i-menu:before {
+.wsu-i-location:before {
 	content: "\F127";
 }
-.wsu-i-minus-circle:before {
+.wsu-i-map-location:before {
 	content: "\F128";
 }
-.wsu-i-minus:before {
+.wsu-i-map:before {
 	content: "\F129";
 }
-.wsu-i-more:before {
+.wsu-i-menu:before {
 	content: "\F12A";
 }
-.wsu-i-next:before {
+.wsu-i-minus-circle:before {
 	content: "\F12B";
 }
-.wsu-i-pause:before {
+.wsu-i-minus:before {
 	content: "\F12C";
 }
-.wsu-i-phone:before {
+.wsu-i-mobile:before {
 	content: "\F12D";
 }
-.wsu-i-photos:before {
+.wsu-i-monitor:before {
 	content: "\F12E";
 }
-.wsu-i-play-circle:before {
+.wsu-i-more-vertical:before {
 	content: "\F12F";
 }
-.wsu-i-play:before {
+.wsu-i-more:before {
 	content: "\F130";
 }
-.wsu-i-plus:before {
+.wsu-i-next:before {
 	content: "\F131";
 }
-.wsu-i-pluse-circle:before {
+.wsu-i-pause:before {
 	content: "\F132";
 }
-.wsu-i-previous:before {
+.wsu-i-phone:before {
 	content: "\F133";
 }
-.wsu-i-print:before {
+.wsu-i-photos:before {
 	content: "\F134";
 }
-.wsu-i-profile:before {
+.wsu-i-play-circle:before {
 	content: "\F135";
 }
-.wsu-i-rate:before {
+.wsu-i-play:before {
 	content: "\F136";
 }
-.wsu-i-refresh:before {
+.wsu-i-plus:before {
 	content: "\F137";
 }
-.wsu-i-save:before {
+.wsu-i-pluse-circle:before {
 	content: "\F138";
 }
-.wsu-i-search:before {
+.wsu-i-previous:before {
 	content: "\F139";
 }
-.wsu-i-secure:before {
+.wsu-i-print:before {
 	content: "\F13A";
 }
-.wsu-i-send:before {
+.wsu-i-profile-circle:before {
 	content: "\F13B";
 }
-.wsu-i-settings:before {
+.wsu-i-profile:before {
 	content: "\F13C";
 }
-.wsu-i-share:before {
+.wsu-i-rate:before {
 	content: "\F13D";
 }
-.wsu-i-social-facebook:before {
+.wsu-i-refresh:before {
 	content: "\F13E";
 }
-.wsu-i-social-instagram:before {
+.wsu-i-save:before {
 	content: "\F13F";
 }
-.wsu-i-social-linkedin:before {
+.wsu-i-search:before {
 	content: "\F140";
 }
-.wsu-i-social-twitter:before {
+.wsu-i-secure:before {
 	content: "\F141";
 }
-.wsu-i-social-youtube:before {
+.wsu-i-send:before {
 	content: "\F142";
 }
-.wsu-i-stop-circle:before {
+.wsu-i-settings:before {
 	content: "\F143";
 }
-.wsu-i-stop:before {
+.wsu-i-share:before {
 	content: "\F144";
 }
-.wsu-i-tent:before {
+.wsu-i-social-facebook:before {
 	content: "\F145";
 }
-.wsu-i-time:before {
+.wsu-i-social-instagram:before {
 	content: "\F146";
 }
-.wsu-i-trash:before {
+.wsu-i-social-linkedin:before {
 	content: "\F147";
 }
-.wsu-i-video-slideshow:before {
+.wsu-i-social-twitter:before {
 	content: "\F148";
 }
-.wsu-i-warning-caution:before {
+.wsu-i-social-youtube:before {
 	content: "\F149";
 }
-.wsu-i-warning-stop:before {
+.wsu-i-stop-circle:before {
 	content: "\F14A";
 }
-.wsu-i-x-close:before {
+.wsu-i-stop:before {
 	content: "\F14B";
 }
-.wsu-i-zoom-in:before {
+.wsu-i-tag:before {
 	content: "\F14C";
 }
-.wsu-i-zoom-out:before {
+.wsu-i-tent:before {
 	content: "\F14D";
+}
+.wsu-i-time:before {
+	content: "\F14E";
+}
+.wsu-i-trash:before {
+	content: "\F14F";
+}
+.wsu-i-upload:before {
+	content: "\F150";
+}
+.wsu-i-video-slideshow:before {
+	content: "\F151";
+}
+.wsu-i-warning-caution:before {
+	content: "\F152";
+}
+.wsu-i-warning-stop:before {
+	content: "\F153";
+}
+.wsu-i-x-close:before {
+	content: "\F154";
+}
+.wsu-i-zoom-in:before {
+	content: "\F155";
+}
+.wsu-i-zoom-out:before {
+	content: "\F156";
 }
 
