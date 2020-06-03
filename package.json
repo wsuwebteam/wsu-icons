@@ -1,5 +1,5 @@
 {
-    "name": "@wsu/icons",
+    "name": "@wsuwebteam/wsu-icons",
     "version": "2.0.3",
     "description": "An officially branded WSU icon set.",
     "main": "index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/washingtonstateuniversity/wsu-icons.git"
+        "url": "git+https://github.com/wsuwebteam/wsu-icons.git"
     },
     "keywords": [
         "icons"
@@ -16,9 +16,9 @@
     "author": "Nic Ford",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/washingtonstateuniversity/wsu-icons/issues"
+        "url": "https://github.com/wsuwebteam/wsu-icons/issues"
     },
-    "homepage": "https://github.com/washingtonstateuniversity/wsu-icons#readme",
+    "homepage": "https://github.com/wsuwebteam/wsu-icons#readme",
     "devDependencies": {
         "webfonts-loader": "^5.1.1",
         "css-loader": "^1.0.1",
@@ -27,5 +27,6 @@
         "style-loader": "^0.23.1",
         "webpack": "^4.26.1",
         "webpack-cli": "^3.1.2"
-    }
+    },
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
