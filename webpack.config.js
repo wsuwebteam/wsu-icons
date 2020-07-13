@@ -21,7 +21,8 @@ module.exports = {
 					{
 						loader: 'webfonts-loader',
 						options: {
-							publicPath: 'https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/'
+							
+							publicPath: 'https://cdn-web-wsu.s3-us-west-2.amazonaws.com/designsystem/1.x/wsu-icons/dist/'
 						}
 					}
 				]
