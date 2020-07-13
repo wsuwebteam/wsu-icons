@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "wsu-icons";
-	src: url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.eot?#iefix") format("embedded-opentype"),
-url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.woff") format("woff"),
-url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.woff2") format("woff2"),
-url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.ttf") format("truetype"),
-url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.svg#wsu-icons") format("svg");
+	src: url("https://cdn-web-wsu.s3-us-west-2.amazonaws.com/designsystem/1.x/wsu-icons/dist/wsu-icons.dist.eot?#iefix") format("embedded-opentype"),
+url("https://cdn-web-wsu.s3-us-west-2.amazonaws.com/designsystem/1.x/wsu-icons/dist/wsu-icons.dist.woff") format("woff"),
+url("https://cdn-web-wsu.s3-us-west-2.amazonaws.com/designsystem/1.x/wsu-icons/dist/wsu-icons.dist.woff2") format("woff2"),
+url("https://cdn-web-wsu.s3-us-west-2.amazonaws.com/designsystem/1.x/wsu-icons/dist/wsu-icons.dist.ttf") format("truetype"),
+url("https://cdn-web-wsu.s3-us-west-2.amazonaws.com/designsystem/1.x/wsu-icons/dist/wsu-icons.dist.svg#wsu-icons") format("svg");
 }
 
 .wsu-icon:before {
