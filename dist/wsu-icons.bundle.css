@@ -7,10 +7,6 @@ url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/
 url("https://wsu-design-system.s3-us-west-2.amazonaws.com/wsu-icons-master/dist/wsu-icons.dist.svg#wsu-icons") format("svg");
 }
 
-.wsu-icon {
-	line-height: 1;
-}
-
 .wsu-icon:before {
 	font-family: wsu-icons !important;
 	font-style: normal;
