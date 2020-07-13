@@ -7,5 +7,6 @@ module.exports = {
 	'baseSelector': '.wsu-icon',
 	'types': ['eot', 'woff', 'woff2', 'ttf', 'svg'],
 	'fixedWidth': true,
-	'fileName': '[fontname].dist.[ext]'
+	'fileName': '[fontname].dist.[ext]',
+	'cssTemplate': './templates/css.hbs'
 };
